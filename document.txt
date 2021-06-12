@@ -13,3 +13,11 @@ Best case flow
 - git merge master
 - fix conflict & commit code
 - merge develop branch to master using MR
+
+
+Rebase
+- git rebase --squash
+- git rebase -i commit-id
+
+Cherry-pick
+git cherry-pick commit-id
