@@ -1,0 +1,5 @@
+- git clone  https://username:password@github.com/JaldhiSamcom/samcom-git-session.git
+- git remote add origin https://github.com/JaldhiSamcom/samcom-git-session.git
+- git remote set-url origin https://github.com/JaldhiSamcom/samcom-git-session.git
+- git config user.name "Jaldhi"
+- git config user.email "Jaldhi@samcomtechnobrains.com" --global
