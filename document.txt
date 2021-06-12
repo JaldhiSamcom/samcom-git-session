@@ -3,3 +3,6 @@
 - git remote set-url origin https://github.com/JaldhiSamcom/samcom-git-session.git
 - git config user.name "Jaldhi"
 - git config user.email "Jaldhi@samcomtechnobrains.com" --global
+
+
+- git checkout -b develop
