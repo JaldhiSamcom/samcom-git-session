@@ -6,3 +6,10 @@
 
 
 - git checkout -b develop
+
+Best case flow
+- git pull origin master
+- git checkout develop
+- git merge master
+- fix conflict & commit code
+- merge develop branch to master using MR
